@@ -11,6 +11,9 @@ Not affiliated with Crunchyroll.
 > Crunchyroll seemingly removed the weekly simulcast calendar and so here is
 > a mostly working replacement.
 
+<img width="2563" height="1435" alt="image" src="https://github.com/user-attachments/assets/baebed1a-3ec9-42ba-a398-2f78259c1606" />
+
+
 ## Install
 
 ### Brave / Chrome / Edge / other Chromium browsers
