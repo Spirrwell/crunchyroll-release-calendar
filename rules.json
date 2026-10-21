@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "regexSubstitution": "https://www.crunchyroll.com/videos/new#crcal\\1"
+      }
+    },
+    "condition": {
+      "regexFilter": "^https://www\\.crunchyroll\\.com/(?:[a-z]{2}(?:-[a-z]{2})?/)?simulcastcalendar/?((?:\\?.*)?)$",
+      "resourceTypes": ["main_frame"]
+    }
+  }
+]
